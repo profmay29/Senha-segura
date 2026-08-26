@@ -1,0 +1,2 @@
+# Senha-segura
+Gerar senha
